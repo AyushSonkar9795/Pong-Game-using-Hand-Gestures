@@ -21,19 +21,7 @@ The Pong game allows one or two players to control paddles using hand gestures c
 - cvzone (for hand tracking)
 - numpy
 
-## Setup
-
-1. Clone this repository to your local machine:
-
-   ```
-   git clone https://github.com/your_username/pong-game.git
-   ```
-
-2. Install the required dependencies:
-
-   ```
-   pip install opencv-python-headless cvzone numpy
-   ```
+  ```
 
 ## Usage
 
@@ -55,9 +43,6 @@ The Pong game allows one or two players to control paddles using hand gestures c
 
 6. Press 'r' to restart the game after it ends.
 
-## Credits
-
-This project is based on the cvzone library by "Murtaza's Workshop - Robotics and AI". Check out their YouTube channel for tutorials and projects: [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI).
 
 ## License
 
